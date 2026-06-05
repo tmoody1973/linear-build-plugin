@@ -1,0 +1,17 @@
+{
+  "name": "linear-build",
+  "version": "0.1.0",
+  "description": "Linear-driven build loop for Claude Code. A Linear issue is the spec (Intent / Acceptance / Verification); the skill builds to it, verifies against real data, and writes results back. A project = a milestone fanned into spec'd issues. Bundles the official Linear MCP server so install wires up both the workflow and the integration.",
+  "author": {
+    "name": "Tarik Moody",
+    "email": "tarik@radiomilwaukee.org"
+  },
+  "keywords": [
+    "linear",
+    "mcp",
+    "workflow",
+    "spec-driven",
+    "issue-tracker",
+    "project-management"
+  ]
+}
