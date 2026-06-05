@@ -23,10 +23,10 @@ A Claude Code plugin that turns **Linear into your spec source** for building so
 This repo is a self-contained Claude Code plugin marketplace.
 
 ```bash
-# 1. Add this repo as a marketplace (local path or git URL)
-/plugin marketplace add ~/Documents/Projects/linear-build-plugin
-#    or, once pushed to GitHub:
-#    /plugin marketplace add <your-github-user>/linear-build-plugin
+# 1. Add this repo as a marketplace (GitHub, or a local path)
+/plugin marketplace add tmoody1973/linear-build-plugin
+#    or from a local clone:
+#    /plugin marketplace add ~/Documents/Projects/linear-build-plugin
 
 # 2. Install the plugin
 /plugin install linear-build@tarik-skills
